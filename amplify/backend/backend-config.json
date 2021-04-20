@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyfoodstockaji5b92e1e1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
